@@ -4,10 +4,19 @@ They are designed to be made from aluminum, but I also plan to make printed/heat
 
 The rear hole on the slider should be tapped for M5 thread, and the holes on the top and bottom plates should be tapped for M2.5 thread.
 
-![IMG_0225](https://github.com/EarthToMe/3D-Printer-Designs/assets/25773871/63daec7f-a67a-4b9f-ba9c-afac69dcbc6e)
 
-![IMG_0226](https://github.com/EarthToMe/3D-Printer-Designs/assets/25773871/e1c5c9ba-e042-4f42-b0d3-2d302b42dc99)
 
-![IMG_0227](https://github.com/EarthToMe/3D-Printer-Designs/assets/25773871/20c36bb2-8a4a-4b08-a982-ac2393ca1cba)
+![IMG_0229](https://github.com/EarthToMe/3D-Printer-Designs/assets/25773871/fecd0239-e90f-47af-9e4f-e16fbd38f568)
 
+It uses the same parts for each side. On each side, the 3mm spacer goes on the top.
+
+![IMG_0232](https://github.com/EarthToMe/3D-Printer-Designs/assets/25773871/a486ac05-d722-44dc-b713-1e81c760e3ff)
+
+Hardware
+
+![IMG_0230](https://github.com/EarthToMe/3D-Printer-Designs/assets/25773871/326e26b6-5a3a-4d70-b2cb-11c86fb5954f)
+
+Exploded View
+
+![IMG_0231](https://github.com/EarthToMe/3D-Printer-Designs/assets/25773871/12d4e86d-f805-41ff-b730-43a5bbbecf2c)
 
